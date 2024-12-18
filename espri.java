@@ -1,4 +1,4 @@
-{
+{ "count": 100,
   "espri1": "+ Kocanızla ortak özelliğiniz ne?\n- Aynı gün evlendik.",
   "espri2": "Kalbinin sesini dinle, güzelse kaset yap.",
   "espri3": "Annemin bahsettiği elalem diye bir örgüt var, illuminatiden daha tehlikeli yemin ederim.",
